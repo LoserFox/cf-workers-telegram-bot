@@ -5,7 +5,7 @@
 ![screenshot of cf-workers-telegram-bot](/screenshot.png)
 
 serverless telegram bot on cf workers
-try
+try trigger
 The original `worker.js` is the content of Nikhil John's
 https://github.com/nikhiljohn10/telegram-bot-worker which is licensed with MIT.
 My modifications are licensed under the Apache license.
